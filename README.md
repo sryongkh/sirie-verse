@@ -1,4 +1,4 @@
-# SirieVerse eCommerce Platform
+# SirieVerse - eCommerce Platform
 SirieVerse is a eCommerce platform built to provide a shopping for customers and management tools for sellers and administrators. It features an intuitive user interface, AI-powered customer support, product and order management, secure payment integrations, and dashboards for sellers and admins. for practice full-stack development by Sirinya
 
 ## Key Features:
@@ -50,6 +50,15 @@ SirieVerse is a eCommerce platform built to provide a shopping for customers and
     *   **Home Page Management:** Update and customize the content and layout of the website's home page through the admin panel.
 *   **Promotional Deal Management:**
     *   **Deal Management:** Create, update, and manage special deals and offers displayed on the platform.
+
+## 🚀 Spring Boot Steps
+*   Create First API
+*   Create Data Models (Entities)
+*   Set Up Security (Login, Signup)
+*   Build Services
+*   Create Controllers
+*   Test APIs
+
 
 ## 🎨 Website Design
 
