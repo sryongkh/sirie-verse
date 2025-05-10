@@ -52,6 +52,7 @@ SirieVerse is a eCommerce platform built to provide a shopping for customers and
     *   **Deal Management:** Create, update, and manage special deals and offers displayed on the platform.
 
 ## 🚀 Spring Boot Steps
+*   Setup MySQL Database
 *   Create First API
 *   Create Data Models (Entities)
 *   Set Up Security (Login, Signup)
