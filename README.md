@@ -1,5 +1,5 @@
-# Sirie Verse eCommerce Platform
-Sirie Verse is a eCommerce platform built to provide a shopping for customers and management tools for sellers and administrators. It features an intuitive user interface, AI-powered customer support, product and order management, secure payment integrations, and dashboards for sellers and admins. for practice full-stack development by Sirinya
+# SirieVerse eCommerce Platform
+SirieVerse is a eCommerce platform built to provide a shopping for customers and management tools for sellers and administrators. It features an intuitive user interface, AI-powered customer support, product and order management, secure payment integrations, and dashboards for sellers and admins. for practice full-stack development by Sirinya
 
 ## Key Features:
 
@@ -50,3 +50,35 @@ Sirie Verse is a eCommerce platform built to provide a shopping for customers an
     *   **Home Page Management:** Update and customize the content and layout of the website's home page through the admin panel.
 *   **Promotional Deal Management:**
     *   **Deal Management:** Create, update, and manage special deals and offers displayed on the platform.
+
+## 🎨 Website Design
+
+This section provides an overview of the design aspects of the SirieVerse platform, including the design mockups and color palette used.
+
+### 🖌️ Design Mockups (Figma)
+
+The user interface (UI) design mockups for SirieVerse were created using Figma. You can view the detailed designs, components, and prototypes via the following link:
+
+🔗 **[View SirieVerse Design on Figma](https://www.figma.com/design/RQymrWI4Zyeug10Hn0rlOF/SirieVerse---eCommerce-Platform?node-id=0-1&t=C0xg49m0v5AAQn4K-1)**
+
+
+### 🌈 Color Palette
+
+The primary color palette used throughout the SirieVerse application is as follows:
+
+*   **Primary:** `#3B3486`
+*   **Secondary:** `#864AF9`
+*   **Accent/Tertiary:** `#F8E559`
+*   **Background:**
+    *   Light Mode: `##fdfefe`
+    *   Dark Mode: `#332941`
+*   **Text:**
+    *   Primary Text: `#2C3E50`
+    *   Secondary Text: `#7F8C8D`
+    *   Text on Dark Background: `#ECF0F1`
+*   **Borders/Dividers:** `#BDC3C7`
+*   **Success:** `#27AE60`
+*   **Error/Warning:** `#E74C3C`
+
+
+
